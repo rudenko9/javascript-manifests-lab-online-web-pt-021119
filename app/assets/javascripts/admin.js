@@ -1,1 +1,1 @@
-//= require Hello_world
+//= require hello_world
